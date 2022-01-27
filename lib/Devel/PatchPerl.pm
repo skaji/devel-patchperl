@@ -1,5 +1,5 @@
 package Devel::PatchPerl;
-
+$Devel::PatchPerl::VERSION = '2.08';
 # ABSTRACT: Patch perl source a la Devel::PPPort's buildperl.pl
 
 use strict;
